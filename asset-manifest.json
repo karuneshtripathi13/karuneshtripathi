@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a102145.chunk.css",
+    "main.js": "/static/js/main.7071eb74.chunk.js",
+    "main.js.map": "/static/js/main.7071eb74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e957677.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e957677.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.2d3e16ce.chunk.js": "/static/js/2.2d3e16ce.chunk.js",
+    "static/js/2.2d3e16ce.chunk.js.map": "/static/js/2.2d3e16ce.chunk.js.map",
+    "static/js/3.6ef1144a.chunk.js": "/static/js/3.6ef1144a.chunk.js",
+    "static/js/3.6ef1144a.chunk.js.map": "/static/js/3.6ef1144a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.5a102145.chunk.css.map": "/static/css/main.5a102145.chunk.css.map",
+    "static/js/2.2d3e16ce.chunk.js.LICENSE.txt": "/static/js/2.2d3e16ce.chunk.js.LICENSE.txt",
+    "static/media/bst.46cad1f8.png": "/static/media/bst.46cad1f8.png",
+    "static/media/carworth.f7a1ab32.png": "/static/media/carworth.f7a1ab32.png",
+    "static/media/chatapp.41736740.png": "/static/media/chatapp.41736740.png",
+    "static/media/chatapp1.83a8ee4e.png": "/static/media/chatapp1.83a8ee4e.png",
+    "static/media/college.43190d85.png": "/static/media/college.43190d85.png",
+    "static/media/enron.a95b3792.png": "/static/media/enron.a95b3792.png",
+    "static/media/google.6d9ed119.png": "/static/media/google.6d9ed119.png",
+    "static/media/hdfs.4cfd8691.png": "/static/media/hdfs.4cfd8691.png",
+    "static/media/homoeo.f6b91652.png": "/static/media/homoeo.f6b91652.png",
+    "static/media/html.9d7c2452.png": "/static/media/html.9d7c2452.png",
+    "static/media/img_189697.126d78f4.png": "/static/media/img_189697.126d78f4.png",
+    "static/media/jslogo.029db7d4.png": "/static/media/jslogo.029db7d4.png",
+    "static/media/neural network.6bd26e1b.jpg": "/static/media/neural network.6bd26e1b.jpg",
+    "static/media/portfolio.b114a881.png": "/static/media/portfolio.b114a881.png",
+    "static/media/profilephoto.e7ac92fe.jpeg": "/static/media/profilephoto.e7ac92fe.jpeg",
+    "static/media/contact.css": "/static/media/skyscrapers.ed5b5aaf.jpg",
+    "static/media/stack-overflow.579cff43.png": "/static/media/stack-overflow.579cff43.png",
+    "static/media/versioncontrol.6d5d959f.png": "/static/media/versioncontrol.6d5d959f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e957677.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.2d3e16ce.chunk.js",
+    "static/css/main.5a102145.chunk.css",
+    "static/js/main.7071eb74.chunk.js"
+  ]
+}
