@@ -1,0 +1,238 @@
+#Contact {
+  min-height: 100vh;
+    padding: 5vw;
+  position: relative;
+}
+.wrap{
+    position: relative;
+    z-index: 1;
+}
+#Contact::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  filter: blur(5px);
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.7;
+  background-image: url("./skyscrapers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+}
+.contactheading {
+  color: white;
+  font-weight: 600;
+  text-decoration: overline;
+  font-size: 3vw;
+  width: fit-content;
+  padding: 0 2% 0 2%;
+  margin: auto;
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+}
+.formcontainer{
+    color: white;
+}
+.cover{
+  margin-top: 1vw;
+}
+.formip{
+  padding: 0.7vw;
+  width: 20vw;
+  border-radius: 0.5vw;
+  font-size: 1.145vw;
+}
+.sendbtn{
+  margin-top: 1vw;
+  padding: 0.7vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  border-radius: 0.5vw;
+  color: white;
+  font-size: 1.2vw;
+  font-weight: 500;
+  background-color:black;
+  border: solid 2px grey;
+  text-decoration: none;
+}
+.sendbtn:hover{
+  background-color: gray;
+  color:black;
+  border: solid 2px black;
+}
+.icons{
+  margin-top: 2vw;
+  background-color: #212529;
+  width: 85vw;
+  height: 22vw;
+  z-index: 1;
+  border-radius: 2vw;
+  border: solid 2px grey;
+}
+.linkedin{
+  border-radius: 1vw;
+  color: white;
+  padding: 0.3vw;
+  margin:1vw;
+}
+.linkedin:hover{
+  color:gold
+}
+.github{
+  border-radius: 1vw;
+  color: white;
+  padding: 0.3vw;
+  margin:1vw;
+}
+.github:hover{
+  color:gold
+}
+.twitter{
+  border-radius: 1vw;
+  color: white;
+  padding: 0.3vw;
+  margin:1vw;
+}
+.twitter:hover{
+  color:gold
+}
+.insta{
+  border-radius: 1vw;
+  color: white;
+  padding: 0.3vw;
+  margin:1vw;
+}
+.insta:hover{
+  color:gold
+}
+.youtube{
+  border-radius: 1vw;
+  color: white;
+  padding: 0.3vw;
+  margin:1vw;
+}
+.youtube:hover{
+  color:gold
+}
+.gmail{
+  border-radius: 1vw;
+  color: white;
+  padding: 0.3vw;
+  margin:1vw;
+  margin-left: 1vw;
+}
+.gmail:hover{
+  color:gold
+}
+.socialmedia{
+ margin-top: 2.5vw; 
+ background-color: black;
+ border-radius: 2vw;
+}
+.copyrights{
+  padding: 1vw;
+  color: darkgrey;
+  margin-top: 3vw;
+  margin-bottom: 2vw;
+  font-size: 1.145vw;
+}
+.followme{
+  color: gold;
+  font-size: 2vw;
+  font-weight: 600;
+  padding: 1vw;
+}
+.upp{
+  transition: 0.2s;
+}
+.upp:hover{
+  transform: translateY(-15%);
+}
+.contactdetails{
+  margin-top: 2vw;
+  color: gray;
+  display: flex;
+}
+.address{
+  margin-top: 3vw;
+  width: 50vw;
+  font-size: 1.2vw;
+}
+.address:hover{
+  color: white;
+}
+.numbermail{
+  margin-top: 3vw;
+  width: 50vw;
+  font-size: 1.2vw;
+}
+.numbermail:hover{
+  color: white;
+}
+.messageappear{
+  background-color: black;
+  padding: 1vw;
+  color: white;
+  border-radius: 1vw;
+  width: fit-content;
+  border: solid 2px grey;
+  margin-left: 35vw;
+  margin-top: 0.5vw;
+  font-size: 1.2vw;
+}
+.messagedisappear{
+  display: none;
+}
+@media only screen and (max-width:990px) {
+  .contactheading{
+    font-size: 7vw;
+  }
+  .formip{
+    font-size: 4vw;
+    width: 60vw;
+    border-radius: 2vw;
+    margin: 2vw;
+    padding: 1vw;
+  }
+  .sendbtn{
+    font-size: 4.5vw;
+    margin-top: 2vw;
+    padding: 2vw;
+    padding-left: 4vw;
+  padding-right: 4vw;
+  border-radius: 1.5vw;
+  }
+  .messageappear{
+    font-size: 4.5vw;
+    margin-left: 13vw;
+    padding: 2vw;
+    margin-top: 2vw;
+  }
+  .icons{
+    padding: 2vw;
+    height: fit-content;
+    margin-top: 5vw;
+  }
+  .numbermail{
+    font-size: 3vw;
+  }
+  .address{
+    font-size: 3vw;
+  }
+  .add{
+    margin-left: 0 !important;
+  }
+  .socialmedia{
+    margin-top: 5vw;
+    padding: 3vw;
+  }
+  .followme{
+    font-size: 4vw;
+  }
+  .copyrights{
+    font-size: 3vw;
+  }
+}

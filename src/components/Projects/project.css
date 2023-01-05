@@ -1,0 +1,54 @@
+#Projects{
+    min-height: 100vh;
+    padding: 5vw;
+}
+.projectheading{
+    color: white;
+    font-weight: 600;
+    text-decoration: overline;
+    font-size: 3vw;
+    width: fit-content;
+    padding: 0 2% 0 2%;
+    margin: auto;
+    margin-top: 10vh;
+    margin-bottom: 0vh;
+}
+.photopj{
+    width: 25vw;
+    height: 25vh;
+    padding: 0.1vw;
+}
+.details{
+    margin: auto;
+    height: fit-content;
+}
+.card{
+    max-height:fit-content ;
+}
+.page{
+    z-index: 1;
+}
+.next{
+    z-index: 2;
+    position: relative;
+    left: 28.19vw;
+    top:28.5vh;
+    font-size: 5.5vw;
+}
+.prev{
+    z-index: 2;
+    position: relative;
+    left: -29.75vw;
+    top:28.5vh;
+    font-size: 5.5vw;
+}
+.details{
+    font-size: 0.7vw;
+    padding: 2%;
+    color: gold;
+    font-weight: 500;
+}
+#dnpj{
+    margin-top: 30vh;
+    color: white;
+}
